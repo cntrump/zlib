@@ -1,0 +1,14 @@
+//
+//  zlib-Prefix.pch
+//  zlib
+//
+//  Created by vvveiii on 2019/7/24.
+//  Copyright © 2019 lvv. All rights reserved.
+//
+
+#ifndef zlib_Prefix_pch
+#define zlib_Prefix_pch
+
+#include <unistd.h>
+
+#endif /* zlib_Prefix_pch */
